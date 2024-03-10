@@ -7,7 +7,7 @@ The Java code is a console-based program for managing an employee database, allo
 - [About](#about)
 - [Features](#features)
 - [Imports](#Imports)
-- [Rating: 7.5/10](#Rating)
+- [Rating: 5/10](#Rating)
 
 # About
 
