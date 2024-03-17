@@ -7,7 +7,7 @@ The Java code is a console-based program for managing an employee database, allo
 - [About](#about)
 - [Features](#features)
 - [Imports](#Imports)
-- [Rating: 5/10](#Rating)
+- [Rating: 4/10](#Rating)
 
 # About
 
@@ -26,4 +26,6 @@ List, Scanner
 
 # Rating
 
-The text highlights several issues and improvements in a software application. Inconsistencies in input handling, logic flaws, and inadequate error handling are identified. The editToEmployeeDataBase method stores revenue incorrectly in the employee name field. The user interface could be improved for clearer instructions and feedback. The code organization could be improved by splitting functionalities into smaller methods for better readability and maintainability. Despite these improvements, the application is rated 5/10 for its basic functionality but requires refinement for better usability and robustness.
+The code structure of the project is disorganized, with lengthy main methods and variable names that could be improved. The project allows users to manage an employee database by adding, editing, and checking employee records. However, there are issues with functionality, such as the editing feature not updating the database properly, lack of validation for user inputs, and inability to delete employees or perform administrative tasks.
+Error handling is also minimal, with no handling for potential exceptions like InputMismatchException when reading user input with nextDouble(). The program does not handle cases where the user enters invalid input, leading to potential runtime errors.
+Efficiency is normal, with the project demonstrating some understanding of Java programming concepts but still lacking robust error handling and incomplete functionality. With significant improvements in code organization, functionality, error handling, and efficiency, the project could become more useful and practical. However, it still needs substantial refinement to be considered a robust solution for managing employee data. Overall, the project demonstrates some understanding of Java programming concepts but requires significant improvements to be considered a complete and reliable solution.
